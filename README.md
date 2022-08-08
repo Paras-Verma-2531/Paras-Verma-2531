@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Paras👋
 
-<!--
-**Paras-Verma-2531/Paras-Verma-2531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1.:raising_hand: About Me 
 
-Here are some ideas to get you started:
+### I'm a Computer Science Student At University Of Petroleum And Energy Studies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Logic Building :bulb:
+- 🌱 I’m currently learning Data Structures And Algorithms.
+- 👯 I’m looking to collaborate on problem Solving.
+- 📫 How to reach me: parasverma2531@gmail.com
+- ⚡ Fun fact: Engineers can clear the exams by studying a day before.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Paras-Verma-2531&theme=dark-smoky)](https://git.io/streak-stats)
+
+## 2. :chart_with_upwards_trend: My Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paras-Verma-2531&show_icons=true&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-Verma-2531&theme=rose_pine)
+
