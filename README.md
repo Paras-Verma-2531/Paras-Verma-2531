@@ -1,8 +1,8 @@
 ### Hi, I'm Paras👋
 
-## 1.:raising_hand: About Me 
+## 1.:raising_hand_man: About Me 
 
-### I'm a Computer Science Student At University Of Petroleum And Energy Studies
+### :man_student: I'm a Computer Science Student At University Of Petroleum And Energy Studies
 
 
 - 🔭 I’m currently working on Logic Building :bulb:
