@@ -15,5 +15,5 @@
 
 ## 2. :chart_with_upwards_trend: My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paras-Verma-2531&show_icons=true&theme=rose_pine)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-Verma-2531&theme=rose_pine)
+
 
