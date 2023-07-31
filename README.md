@@ -1,4 +1,4 @@
-<div align='center'><h1> Hi, I'm Paras👋</h1></div>
+<div align='center'><h1> Hi, I'm Paras <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1></div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="250"/>
 </div>
