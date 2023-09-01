@@ -10,9 +10,9 @@
 ### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
-- 🔭 I’m currently working on Logic Building :bulb:
+- 🔭 I’m currently working on full-stack project--Social Media Application
 - 🌱 I’m currently learning Data Structures And Algorithms.
-- 👯 I’m looking to collaborate on problem Solving.
+- 👯 I’m looking to collaborate on full-stack projects.
 - 📫 How to reach me: parasverma2531@gmail.com
 
   ---
