@@ -10,7 +10,7 @@
 ### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
-- 🔭 I’m currently working on full-stack project--Social Media Application
+- 🔭 I’m currently working on NextJS project.
 - 🌱 I’m currently learning Data Structures And Algorithms.
 - 👯 I’m looking to collaborate on full-stack projects.
 - 📫 How to reach me: parasverma2531@gmail.com
@@ -19,6 +19,7 @@
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
