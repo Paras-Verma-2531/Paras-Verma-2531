@@ -7,10 +7,10 @@
 
 ## :raising_hand_man: About Me :
 
-### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
-- 🔭 I’m currently working on NextJS project.
+- 🔭 I’m currently working on the NextJS project.
 - 🌱 I’m currently learning Data Structures And Algorithms.
 - 👯 I’m looking to collaborate on full-stack projects.
 - 📫 How to reach me: parasverma2531@gmail.com
